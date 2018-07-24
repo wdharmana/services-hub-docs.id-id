@@ -1,0 +1,53 @@
+- name: Pendaftaran dan Peran Services Hub
+  href: index.md
+  items:
+    - name: Admin Layanan
+      items:
+        - name: Gambaran Umum Peran
+          href: sa-overview.md
+        - name: Keistimewaan Khusus Peran
+          href: sa-privileges.md
+        - name: Yang Perlu Diketahui
+          href: sa-things-to-know.md
+        - name: Pengarahan Peran
+          href: sa-getting-started.md
+        - name: Bagaimana Saya...
+          href: how-do-i.md
+    - name: Kontak Dukungan
+      items:
+        - name: Gambaran Umum Peran
+          href: sc-overview.md
+        - name: Keistimewaan Khusus Peran
+          href: sc-privileges.md
+        - name: Yang perlu diketahui
+          href: sc-things-to-know.md
+        - name: Pengarahan Peran
+          href: sc-getting-started.md
+        - name: Bagaimana Saya...
+          href: how-do-i.md
+    - name: Administrator Penilaian Azure
+      items:
+        - name: Gambaran Umum Peran
+          href: azure-admin-overview.md
+        - name: Keistimewaan Khusus Peran
+          href: azure-admin-privileges.md
+        - name: Yang perlu diketahui
+          href: azure-admin-things-to-know.md
+        - name: Pengarahan Peran
+          href: azure-admin-getting-started.md
+        - name: Bagaimana Saya...
+          href: how-do-i.md
+    - name: Pengguna Services Hub
+      items:
+        - name: Gambaran Umum Peran
+          href: sh-user-overview.md
+        - name: Keistimewaan Khusus Peran
+          href: shu-privileges.md
+        - name: Yang perlu diketahui
+          href: shu-things-to-know.md
+        - name: Pengarahan Peran
+          href: shu-getting-started.md
+        - name: Bagaimana Saya...
+          href: how-do-i.md
+    - name: Pengarahan Penilaian Azure
+      href: assessments-onboarding.md

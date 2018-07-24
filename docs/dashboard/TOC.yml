@@ -1,0 +1,50 @@
+- name: Dasbor Services Hub
+  items:
+    - name: Gambaran Umum
+      href: Index.md
+    - name: Tentang Dasbor Services Hub
+      items:
+        - name: Dasbor
+          href: dashboard-dashboard.md
+        - name: Navigasi Utama
+          href: dashboard-primarynavigation.md
+        - name: Peringatan
+          href: dashboard-alerts.md
+        - name: Keluar
+          href: dashboard-SignOut.md
+        - name: Sunting Profil
+          href: dashboard-EditProfile.md
+        - name: Ruang kerja
+          href: dashboard-Workspaces.md
+        - name: Tujuan
+          href: dashboard-goals.md
+        - name: Sunting Azure Log Analytics
+          href: dashboard-editoms.md
+        - name: Bagikan Gagasan Anda
+          href: dashboard-shareyourideas.md
+    - name: Sumber daya
+      items:
+        - name: TJU
+          items:
+            - name: TJU Dasbor
+              href: dashboard-faq.md
+            - name: TJU Tujuan
+              href: dashboard-goals-faqs.md
+            - name: TJU Sunting Profil
+              href: dashboard-edit-profile-faqs.md
+            - name: TJU Sunting Azure Log Analytics
+              href: dashboard-editoms-faqs.md
+            - name: TJU Ide - Bagikan Gagasan Anda
+              href: dashboard-lightbulb-faqs.md
+            - name: TJU Ruang kerja
+              href: dashboard-workspace-faqs.md
+        - name: Artikel KB
+          items:
+            - name: Memulai Profil Anda
+              href: dashboard-kb-profile.md
+            - name: Memulai Dasbor Services Hub
+              href: dashboard-kb-gettingstartedwithserviceshubdashboard.md
+        - name: Video
+          items:
+            - name: Gambaran Umum Dasbor
+              href: dashboard-overview-video.md

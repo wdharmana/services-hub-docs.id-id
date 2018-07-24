@@ -1,0 +1,30 @@
+- name: Katalog Layanan Services Hub
+  items:
+    - name: Gambaran Umum
+      href: Index.md
+    - name: Tentang Katalog Layanan Services Hub
+      items:
+        - name: Katalog Layanan
+          href: services-catalog.md
+        - name: Rencana
+          href: services-plans.md
+        - name: Rekomendasi
+          href: services-recommended.md
+        - name: Cakupan
+          href: services-included.md
+        - name: Riwayat
+          href: services-history.md
+    - name: Sumber daya
+      items:
+        - name: TJU
+          items:
+            - name: TJU Katalog Layanan
+              href: services-topfaqs.md
+        - name: Artikel KB
+          items:
+            - name: Memulai Layanan
+              href: services-kb-gettingstarted.md
+        - name: Video
+          items:
+            - name: Gambaran Umum Services Hub
+              href: services-overview-video.md

@@ -1,0 +1,31 @@
+- name: Perincian Kontrak Services Hub
+  items:
+    - name: Gambaran Umum
+      href: Index.md
+      items: null
+    - name: Tentang Perincian Kontrak Services Hub
+      items:
+        - name: Perincian Kontrak
+          href: contract-details.md
+        - name: Mengelola Akses
+          href: contract-manageaccess.md
+        - name: File Bersama
+          href: contract-sharedfiles.md
+    - name: Sumber daya
+      items:
+        - name: TJU
+          items:
+            - name: TJU Kontrak
+              href: contracts-top-customer-faqs.md
+            - name: TJU Mengelola Akses
+              href: contracts-manage-access-faqs.md
+            - name: TJU File Bersama
+              href: contracts-shared-files-faqs.md
+        - name: Artikel KB
+          items:
+            - name: Memulai Manfaat Kontrak
+              href: contract-kb-gettingstarted.md
+        - name: Video
+          items:
+            - name: Gambaran Umum Kontrak Unified Support
+              href: contract-overview-video.md

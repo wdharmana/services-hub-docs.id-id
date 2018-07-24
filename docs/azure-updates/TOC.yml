@@ -1,0 +1,14 @@
+- name: Pembaruan Azure Services Hub
+  items:
+    - name: Gambaran Umum
+      href: Index.md
+    - name: Sumber daya
+      items:
+        - name: Artikel KB
+          items:
+            - name: Memulai Pusat Pembaruan
+              href: health-kb-updatecenter.md
+        - name: TJU
+          items:
+            - name: TJU Pusat Pembaruan
+              href: update-center-faqs.md

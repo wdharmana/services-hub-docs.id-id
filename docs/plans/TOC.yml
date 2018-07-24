@@ -1,0 +1,18 @@
+- name: Rencana Kolaboratif Services Hub
+  items:
+    - name: Gambaran Umum
+      href: Index.md
+    - name: Tentang Rencana Services Hub
+      items:
+        - name: Memulai Rencana
+          href: services-kb-plans.md
+    - name: Sumber daya
+      items:
+        - name: TJU
+          items:
+            - name: TJU Rencana
+              href: plans-faqs.md
+        - name: Artikel KB
+          items:
+            - name: Memulai Rencana
+              href: services-kb-plans.md

@@ -1,0 +1,54 @@
+- name: Penilaian Atas Permintaan Services Hub
+  items:
+    - name: Gambaran Umum
+      href: Index.md
+    - name: Tentang Penilaian Atas Permintaan Services Hub
+      items:
+        - name: Peringatan Penting
+          href: health-critical-alerts.md
+        - name: Pusat Pembaruan - Pembaruan Produk
+          href: health-updatecenter-productupdates.md
+        - name: Pusat Pembaruan - Peta Strategi Produk
+          href: health-updatecenter-productroadmaps.md
+        - name: Penilaian Baru
+          href: health-newassessments.md
+    - name: Sumber Daya
+      items:
+        - name: TJU
+          items:
+            - name: TJU Penilaian Atas Permintaan
+              href: health-top-faqs.md
+        - name: Artikel KB
+          items:
+            - name: Pengaturan Awal
+              href: health-kb-initialsetup.md
+            - name: Memulai Penilaian Atas Permintaan
+              href: health-kb-gettingstarted.md
+            - name: Langganan Bersponsor Azure
+              href: health-azure-sponsored-subscription.md
+            - name: Cara Membuat Ruang Kerja Azure Log Analytics Baru dari Azure
+              href: health-kb-omsfromazure.md
+            - name: Menambahkan Pengguna ke Azure Log Analytics melalui Portal Azure
+              href: health-kb-adduserazure.md
+            - name: Mengautentikasi Pemegang Akun MSA ke Azure
+              href: health-kb-authmsa.md
+            - name: Cara Menjalankan Penilaian Secara Manual
+              href: health-kb-manual.md
+            - name: Menyiapkan Penilaian SQL
+              href: health-kb-sql.md
+            - name: Dapatkan Wawasan Lebih Mendalam dari Data Anda dengan Bahasa Kueri Log Analytics Baru
+              href: health-kb-loganalytics.md
+            - name: Masalah - Data masalah tidak muncul di Azure Log Analytics dikarenakan masalah pengumpulan data terkait profil
+              href: health-kb-datanotappear.md
+            - name: Tautkan Services Hub ke ruang kerja Azure Log Analytics
+              href: health-kb-linkoms.md
+            - name: Menggunakan ExecPkg yang Disediakan oleh Staf Microsoft
+              href: health-kb-execpkg.md
+            - name: Memecahkan masalah konfigurasi agen MMA dengan SSL Proxy
+              href: health-kb-mmaagent.md
+            - name: Peran Azure untuk Log Analytics dan bagaimana mereka berhubungan dengan Services Hub
+              href: health-kb-azure-roles.md
+        - name: Video
+          items:
+            - name: Gambaran Umum Penilaian Azure
+              href: health-assessments-overview.md
