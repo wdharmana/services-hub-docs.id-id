@@ -1,0 +1,61 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg",
+          "**/*.gif",
+          "**/*.pptx",
+          "**/*.pdf"
+
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-ServicesHub",
+      "breadcrumb_path": "/services-hub/breadcrumb/toc.json",      
+      "extendBreadcrumb": true,
+      "author": "danwilmot",
+      "ms.author": "dawilmo",
+      "ms.topic": "article",
+      "ms.service": "multiple",
+      "ms.date": "06/28/2018",
+      "feedback_system": "None"
+    },
+    "fileMetadata": {
+      
+    },
+    "template": [],
+    "dest": "serviceshub-docs",
+    "markdownEngineName": "markdig"
+  }
+}
