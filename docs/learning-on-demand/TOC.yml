@@ -1,0 +1,18 @@
+- name: Fitur Services Hub
+  items:
+    - name: Gambaran Umum
+      href: Index.md
+    - name: Tentang Fitur Services Hub
+      items:
+        - name: Memulai Pembelajaran Atas Permintaan
+          href: learning-kb-getting-started-with-learning.md
+    - name: Sumber daya
+      items:
+        - name: TJU
+          items:
+            - name: TJU Pembelajaran Atas Permintaan
+              href: learning-top-faqs.md
+        - name: Video
+          items:
+            - name: Gambaran Umum Pembelajaran Atas Permintaan
+              href: learning-overview-video.md

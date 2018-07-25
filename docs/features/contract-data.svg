@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Unified_Contract_Support_Data"
+   data-name="Unified Contract Support Data"
+   viewBox="0 0 261.65 263.2"
+   version="1.1"
+   sodipodi:docname="contract-data.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata3703">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3701" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     id="namedview3699"
+     showgrid="false"
+     inkscape:zoom="5.9574465"
+     inkscape:cx="95.826781"
+     inkscape:cy="151.74286"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Unified_Contract_Support_Data" />
+  <title
+     id="title3680">Unified_Contract_Support_Data</title>
+  <path
+     d="M254.94,180.12a16.77,16.77,0,0,1,1.62,7.1,16.07,16.07,0,0,1-1.28,6.42,16.36,16.36,0,0,1-8.73,8.73,16.72,16.72,0,0,1-12.83,0,16.36,16.36,0,0,1-8.73-8.73,16.07,16.07,0,0,1-1.28-6.42v-1a5.84,5.84,0,0,1,.08-1l-16.08-8a15.44,15.44,0,0,1-5.22,3.43,16.43,16.43,0,0,1-6.16,1.2,16.83,16.83,0,0,1-7.11-1.63L167.32,202a16.83,16.83,0,0,1,1.63,7.11,16,16,0,0,1-1.29,6.41,16.21,16.21,0,0,1-3.51,5.22,16.44,16.44,0,0,1-5.21,3.51,16.74,16.74,0,0,1-12.84,0,16.38,16.38,0,0,1-5.22-3.51,16.54,16.54,0,0,1-3.51-5.22,16.72,16.72,0,0,1,0-12.83A16.36,16.36,0,0,1,146.1,194a16.24,16.24,0,0,1,6.42-1.28,16.81,16.81,0,0,1,7.1,1.62l21.9-21.9a16.81,16.81,0,0,1-1.62-7.1,16.24,16.24,0,0,1,1.28-6.42,16.36,16.36,0,0,1,8.73-8.73,16.72,16.72,0,0,1,12.83,0,16.54,16.54,0,0,1,5.22,3.51,16.35,16.35,0,0,1,4.79,11.64v1a6,6,0,0,1-.08,1l16.08,8A15.56,15.56,0,0,1,234,172a16.47,16.47,0,0,1,6.16-1.2,16.83,16.83,0,0,1,7.11,1.63l21.9-21.9a16.82,16.82,0,0,1-1.62-7.11A16,16,0,0,1,268.8,137a16.36,16.36,0,0,1,8.73-8.73,16.6,16.6,0,0,1,12.83,0,16.21,16.21,0,0,1,5.22,3.51,16.54,16.54,0,0,1,3.51,5.22,16.72,16.72,0,0,1,0,12.83,16.36,16.36,0,0,1-8.73,8.73,16.21,16.21,0,0,1-6.42,1.28,16.81,16.81,0,0,1-7.1-1.62ZM136.09,247.46H169v54.76H136.09Zm16.43-32.86a5.55,5.55,0,1,0-3.85-1.62A5.27,5.27,0,0,0,152.52,214.6ZM147,291.27h11V258.41H147Zm32.86-87.62h32.85v98.57H179.9Zm16.43-32.86a5.48,5.48,0,0,0,0-10.95,5.48,5.48,0,0,0,0,10.95Zm-5.48,120.48h11V214.6h-11Zm32.86-65.72h32.85v76.67H223.71Zm16.42-32.85a5.55,5.55,0,1,0-3.85-1.63A5.26,5.26,0,0,0,240.13,192.7Zm-5.47,98.57h11V236.51h-11Zm32.86-109.52h32.85V302.22H267.52Zm16.42-43.81a5.48,5.48,0,0,0,0,10.95,5.48,5.48,0,0,0,0-10.95Zm-5.47,153.33h10.95V192.7H278.47Z"
+     transform="translate(-38.73 -39.02)"
+     id="path3682"
+     style="fill:#3176bb;fill-opacity:1" />
+  <polygon
+     points="13.91 180.82 77.05 180.82 77.05 194.73 0 194.73 0 0 166.91 0 166.91 89.52 153 89.52 153 13.91 13.91 13.91 13.91 180.82"
+     id="polygon3684"
+     style="fill:#3176bb;fill-opacity:1;fill-rule:nonzero" />
+  <rect
+     x="27.82"
+     y="41.73"
+     width="13.91"
+     height="13.91"
+     id="rect3686"
+     style="fill:#3176bb;fill-opacity:1" />
+  <rect
+     x="27.82"
+     y="83.45"
+     width="13.91"
+     height="13.91"
+     id="rect3688"
+     style="fill:#3176bb;fill-opacity:1" />
+  <rect
+     x="27.82"
+     y="125.18"
+     width="13.91"
+     height="13.91"
+     id="rect3690"
+     style="fill:#3176bb;fill-opacity:1" />
+  <rect
+     x="55.64"
+     y="41.73"
+     width="83.45"
+     height="13.91"
+     id="rect3692"
+     style="fill:#3176bb;fill-opacity:1" />
+  <rect
+     x="55.64"
+     y="83.45"
+     width="83.45"
+     height="13.91"
+     id="rect3694"
+     style="fill:#3176bb;fill-opacity:1" />
+  <polygon
+     points="55.63 125.18 106.49 125.18 106.58 139.09 55.63 139.09 55.63 125.18"
+     id="polygon3696"
+     style="fill:#3176bb;fill-opacity:1" />
+</svg>
