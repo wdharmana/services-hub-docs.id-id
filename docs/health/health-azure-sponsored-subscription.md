@@ -23,7 +23,8 @@ Kemudian, klik tombol Pra-Konfigurasi Penilaian dan klik Dapatkan Akun Azure (Ji
     </ul>
     <h2>Menemukan Pengaturan Paket Data Analitik Log Azure Di Portal Azure</h2>
     <div></div>
-    <span><img src="health -azure-subscription2.png"></span> <span></span> <span><img src="health -azure-subscription3.png"></span>
+    <span><img src="health -azure-subscription2.png"></span> <span></span>
+    <span><img src="health -azure-subscription3.png"></span>
      <br>
     <p><span>Untuk harga tingkat gratis, terdapat batas pengunggahan data sebesar 500 MB per hari yang akan menghentikan pengunggahan data setelah batas tersebut dicapai. Data yang diunggah dalam tingkat gratis hanya akan disimpan selama 7 hari. <br>
       </span></p>

@@ -244,7 +244,7 @@ description: Hub Layanan Microsoft
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="features/pbi-PowerBILogo2.svg?token=Ag9JycHdO_Z7kT2y9cNFI_RaiQ-MXl42ks5bCkMZwA%3D%3D&sanitize=true">
+                                                        <img src="Dashboard icon.svg?token=Ag9JycHdO_Z7kT2y9cNFI_RaiQ-MXl42ks5bCkMZwA%3D%3D&sanitize=true">
                                                     </div>
                                                     <div class="cardText">
                                                         <h3>Dasbor</h3>

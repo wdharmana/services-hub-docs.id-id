@@ -4,7 +4,7 @@
 
 1.  Masuk ke [Hub Layanan](https://serviceshub.microsoft.com).
 
-2.  Navigasikan ke tab **Penilaian** dan klik **Penilaian Baru**.
+2.  Navigasikan ke tab **Kesehatan** lalu pilih **Penilaian**.  Gulir ke bawah dan klik "Prakonfigurasi Penilaian".
 
 ![Gambar KB Kesehatan Menautkan Analitik Log Azure 1](health-kb-linkoms1.png)
 

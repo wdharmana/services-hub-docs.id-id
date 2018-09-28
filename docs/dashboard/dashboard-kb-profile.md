@@ -1,4 +1,4 @@
-# <a name="getting-started-with-your-profile"></a>MulaiMulai Menggunakan Profil Anda
+# <a name="getting-started-with-your-profile"></a>Mulai Menggunakan Profil Anda
 
 Profil menyediakan informasi yang diperlukan oleh Hub Layanan untuk memberikan pengalaman yang disesuaikan, pelatihan yang dipersonalisasi, rekomendasi penilaian, dan banyak lagi.
 
