@@ -1,10 +1,12 @@
-# <a name="services-hub-on-demand-assessments-overview"></a>Gambaran Umum Penilaian Hub Layanan Sesuai Permintaan
+# <a name="services-hub-on-demand-assessments-overview"></a>Gambaran Umum Penilaian Sesuai Permintaan Services Hub
 
 Hub Layanan Microsoft menyediakan satu lokasi terpusat bagi pelanggan Dukungan Terpadu Microsoft untuk mengakses saran dan bantuan khusus perusahaan mereka dengan mudah, kapan pun dan di mana pun.
 
 ## <a name="on-demand-assessments"></a>Penilaian Sesuai Permintaan
 
-Penilaian Hub Layanan Sesuai Permintaan memberikan analisis yang berkelanjutan tentang beban kerja penting Anda, serta memperkirakan dan menentukan langkah berikutnya untuk meningkatkan dan mengoptimalkan kesehatan lingkungan TI Microsoft Anda. Dokumen ini menyediakan detail tentang manfaat dan fitur utama penilaian sesuai permintaan di Hub Layanan. 
+Penilaian Services Hub Sesuai Permintaan memberikan analisis yang berkelanjutan tentang beban kerja penting Anda, serta memperkirakan dan menentukan langkah berikutnya untuk meningkatkan dan mengoptimalkan kesehatan lingkungan TI Microsoft Anda. Dokumen ini menyediakan detail tentang manfaat dan fitur utama penilaian sesuai permintaan di Hub Layanan.  Penilaian Sesuai Permintaan yang saat ini tersedia di Services Hub ditampilkan di bawah ini.
+
+![Penilaian Sesuai Permintaan yang Tersedia](AvailableOnDemandAssessments.png)
 
 ## <a name="easy"></a>Mudah 
 
@@ -44,17 +46,15 @@ Penilaian Hub Layanan Sesuai Permintaan memberikan analisis yang berkelanjutan t
 
 ## <a name="readiness-resources"></a>Sumber Daya Kesiapan 
 
--   [Mulai Menggunakan Penilaian](/services-hub/health/health-kb-gettingstarted)
+-   [Mulai Menggunakan Penilaian](getting_started_with_on_demand_assessments.md)
 
--   [Cara membuat Ruang Kerja Analitik Log Azure baru dari Azure](/services-hub/health/health-kb-omsfromazure)
+-   [Cara Membuat Ruang Kerja Analitik Log Azure baru dari Azure](log_analytics_workspace.md)
 
--   [Menambahkan Pengguna ke Analitik Log Azure melalui Portal Azure](/services-hub/health/health-kb-adduserazure)
+-   [Menambahkan Pengguna ke Analitik Log Azure melalui Portal Azure](adding_users_azure_log_analytics.md)
 
--   [Menambahkan pengguna Dukungan Microsoft di Analitik Log Azure](/services-hub/health/health-kb-adduseroms)
+-   [Mengautentikasi Pemegang Akun MSA ke Azure](authenticating_managed_services_account.md)
 
--   [Mengautentikasi Pemegang Akun MSA ke Azure](/services-hub/health/health-kb-authmsa)
-
--   [FAQ Penilaian](/services-hub/health/health-top-faqs)
+-   [FAQ Penilaian](assessments_faq.md)
 
 ## <a name="link-services-hub-to-azure-log-analytics"></a>Menautkan Hub Layanan ke Analitik Log Azure 
 
@@ -64,7 +64,7 @@ Setelah menautkan Hub Layanan ke ruang kerja Analitik Log Azure Anda, mengklik t
 
 ## <a name="configuring-assessments"></a>Mengonfigurasi Penilaian 
 
-Untuk mengonfigurasi penilaian, klik paket Solusi Dukungan Terpadu Microsoft dan tambahkan penilaian yang paling sesuai dengan kebutuhan organisasi Anda. Kemudian, ikuti langkah-langkah yang ditunjukkan pada halaman konfigurasi penilaian dan dokumen pendukung. 
+Untuk mengonfigurasi penilaian, buka Services Hub -> Kesehatan -> Penilaian. Periksa katalog penilaian dengan cepat dan klik Tambahkan Penilaian untuk menambahkan penilaian yang paling sesuai dengan kebutuhan organisasi Anda. Kemudian, ikuti langkah-langkah yang ditunjukkan pada halaman konfigurasi penilaian dan dokumen pendukung. 
 
 ## <a name="viewing-results"></a>Menampilkan Hasil 
 

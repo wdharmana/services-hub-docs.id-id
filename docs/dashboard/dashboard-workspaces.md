@@ -1,4 +1,4 @@
-# <a name="workspaces"></a>RuauRRuang Kerja
+# <a name="workspaces"></a>Ruang Kerja
 
 Informasi untuk pengalaman Hub Layanan Anda tersedia di sini. Ruang kerja dibuat berdasarkan jadwal kontrak Anda. Anda mungkin hanya memiliki satu ruang kerja, tetapi jika perusahaan Anda memiliki pengecualian, akan ada lebih dari satu ruang kerja yang tersedia.
 

@@ -1,54 +1,90 @@
-- name: Penilaian Atas Permintaan Services Hub
+- name: Penilaian Sesuai Permintaan Services Hub
   items:
     - name: Gambaran Umum
       href: Index.md
-    - name: Tentang Penilaian Atas Permintaan Services Hub
-      items:
-        - name: Peringatan Penting
-          href: health-critical-alerts.md
-        - name: Pusat Pembaruan - Pembaruan Produk
-          href: health-updatecenter-productupdates.md
-        - name: Pusat Pembaruan - Peta Strategi Produk
-          href: health-updatecenter-productroadmaps.md
-        - name: Penilaian Baru
-          href: health-newassessments.md
     - name: Sumber Daya
       items:
         - name: TJU
           items:
-            - name: TJU Penilaian Atas Permintaan
-              href: health-top-faqs.md
+            - name: TJU Penilaian Sesuai Permintaan
+              href: assessments_faq.md
         - name: Artikel KB
           items:
-            - name: Pengaturan Awal
-              href: health-kb-initialsetup.md
-            - name: Memulai Penilaian Atas Permintaan
-              href: health-kb-gettingstarted.md
-            - name: Langganan Bersponsor Azure
-              href: health-azure-sponsored-subscription.md
-            - name: Cara Membuat Ruang Kerja Azure Log Analytics Baru dari Azure
-              href: health-kb-omsfromazure.md
+            - name: Memulai dengan Penilaian Atas Permintaan
+              href: getting_started_with_on_demand_assessments.md
             - name: Menambahkan Pengguna ke Azure Log Analytics melalui Portal Azure
-              href: health-kb-adduserazure.md
-            - name: Mengautentikasi Pemegang Akun MSA ke Azure
-              href: health-kb-authmsa.md
-            - name: Cara Menjalankan Penilaian Secara Manual
-              href: health-kb-manual.md
-            - name: Menyiapkan Penilaian SQL
-              href: health-kb-sql.md
-            - name: Dapatkan Wawasan Lebih Mendalam dari Data Anda dengan Bahasa Kueri Log Analytics Baru
-              href: health-kb-loganalytics.md
-            - name: Masalah - Data masalah tidak muncul di Azure Log Analytics dikarenakan masalah pengumpulan data terkait profil
-              href: health-kb-datanotappear.md
-            - name: Tautkan Services Hub ke ruang kerja Azure Log Analytics
-              href: health-kb-linkoms.md
-            - name: Menggunakan ExecPkg yang Disediakan oleh Staf Microsoft
-              href: health-kb-execpkg.md
-            - name: Memecahkan masalah konfigurasi agen MMA dengan SSL Proxy
-              href: health-kb-mmaagent.md
+              href: adding_users_azure_log_analytics.md
             - name: Peran Azure untuk Log Analytics dan bagaimana mereka berhubungan dengan Services Hub
-              href: health-kb-azure-roles.md
+              href: azure-roles.md
+            - name: Pemecahan Masalah Penilaian Sesuai Permintaan
+              href: assessments-troubleshooting.md
+            - name: Data Pengodean Penilaian Sesuai Permintaan Rata-rata
+              href: average_assessment_consumption.md
+            - name: Harga Analitik Log Azure
+              href: azure_pricing.md
+            - name: Mengunduh semua Rekomendasi Penilaian Sesuai Permintaan di Excel
+              href: download_recommendations_excel.md
+            - name: Ringkasan Eksekutif Penilaian Sesuai Permintaan
+              href: executive_summary.md
+            - name: Langganan Bersponsor Azure
+              href: azure_sponsored_subscription.md
+            - name: Menautkan Services Hub ke Ruang Kerja Azure Log Analytics Anda
+              href: health-kb-linkoms.md
+            - name: Cara Membuat Ruang Kerja Azure Log Analytics Baru dari Azure
+              href: log_analytics_workspace.md
+            - name: Mengautentikasi Pemegang Akun MSA ke Azure
+              href: authenticating_managed_services_account.md
+            - name: Cara Menjalankan Penilaian Secara Manual
+              href: manually_running_assessment.md
+            - name: Dapatkan Wawasan Lebih Mendalam dari Data Anda dengan Bahasa Kueri Log Analytics Baru
+              href: log_analytics_query_language.md
+            - name: Masalah - Data masalah tidak muncul di Azure Log Analytics dikarenakan masalah pengumpulan data terkait profil
+              href: data_does_not_appear_azure_log_analytics.md
+            - name: Menggunakan ExecPkg yang Disediakan oleh Staf Microsoft
+              href: execpkg.md
+            - name: Rencana Remediasi Penilaian Sesuai Permintaan
+              href: assessment_remediation_plan.md
+            - name: Membuat Peringatan saat Pengumpulan Data Lebih Tinggi daripada yang Diharapkan
+              href: create_alert_data_collection_higher_expected.md
+            - name: Peringatan Penting
+              href: critical-alerts.md
+            - name: Gambaran umum Penilaian Atas Permintaan
+              href: overview_on-demand_assessments.md
+            - name: Menjalankan Penilaian di Beberapa Lingkungan
+              href: running_assessments_multiple_environments.md
+            - name: Memecahkan masalah konfigurasi agen MMA dengan SSL Proxy
+              href: troubleshooting_mma_agent.md
+            - name: Membuat Peringatan saat Pengumpulan Data Lebih Tinggi daripada yang Diharapkan
+              href: create_alert_data_higher.md
+            - name: RAP sebagai Pemetaan Layanan untuk Penilaian Sesuai Permintaan
+              href: rap_mapping.md
         - name: Video
           items:
-            - name: Gambaran Umum Penilaian Azure
+            - name: Gambaran Umum Penilaian Sesuai Permintaan
               href: health-assessments-overview.md
+            - name: Menautkan Services Hub ke Analitik Log Azure
+              href: linking_video.md
+            - name: Menginstal dan Mengonfigurasi Agen Penilaian Sesuai Permintaan
+              href: install_agent_video.md
+            - name: Menginstal dan Mengonfigurasi Agen + Gateway Penilaian Sesuai Permintaan
+              href: install_agent_gateway_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - Direktori Aktif
+              href: ad_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - Keamanan Direktori Aktif
+              href: ad_security_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - Exchange Server
+              href: exchange_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - SharePoint Server
+              href: sharepoint_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - Skype untuk Bisnis
+              href: skype_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - SQL Server
+              href: sql_video.md
+            - name: Mengonfigurasi Penilaian Sesuai - SCCM
+              href: sccm_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - SCOM
+              href: scom_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - Windows Client
+              href: windows_client_video.md
+            - name: Mengonfigurasi Penilaian Sesuai Permintaan - Windows Server
+              href: windows_server_video.md

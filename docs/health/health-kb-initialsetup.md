@@ -11,27 +11,20 @@ Setelah menautkan Hub Layanan ke ruang kerja Analitik Log Azure Anda, mengklik t
 
 Setelah berhasil menautkan langganan Azure ke ruang kerja Analitik Log Azure, Anda kini dapat menambahkan pengguna sesuai kebutuhan. Berikut adalah berbagai artikel yang akan memandu Anda. 
 
-[Menambahkan Pengguna dalam Langganan Azure](https://serviceshub.uservoice.com/knowledgebase/articles/1139476-adding-users-in-azure-subscriptions)
+[Menambahkan Pengguna dalam Langganan Azure](health-kb-adduserazure.md)
 
-[Menambahkan Pengguna Dukungan Microsoft di Analitik Log Azure](https://serviceshub.uservoice.com/knowledgebase/articles/1139467-adding-a-microsoft-support-user-in-oms)
-
-[Mengautentikasi Pemegang Akun Microsoft (MSA) ke Azure](https://serviceshub.uservoice.com/knowledgebase/articles/1139059-authenticating-an-msa-account-holder-to-azure)
+[Mengautentikasi Pemegang Akun Microsoft (MSA) ke Azure](health-kb-authmsa.md)
 
 
 ## <a name="configuring-assessments"></a>Mengonfigurasi Penilaian 
 
 Untuk mengonfigurasi penilaian, klik paket **Solusi Dukungan Terpadu Microsoft** dan tambahkan penilaian yang paling sesuai dengan kebutuhan organisasi Anda. Kemudian, ikuti langkah-langkah yang ditunjukkan pada halaman konfigurasi penilaian dan dokumen pendukung. 
 
-  
 
 ## <a name="viewing-results"></a>Menampilkan hasil 
 
 Anda dapat meninjau hasil Penilaian di dasbor.  
 
   
-
-  
-
-Memiliki Umpan Balik? 
 
 Klik <a href="mailto:SHub_Feedback_RC@Microsoft.com?subject=Resource%20Center%20Feedback%3A%20%3CInsert%20feedback%20topic%3E%3E&amp;body=%3C%3Cplease%20submit%20your%20feedback%20with%20enough%20detail%20on%20the%20problem%2C%20reproduction%20steps%20and%20what%20you%20desire%20to%20happen%3E%3E" target="_blank">di sini</a> untuk memberikan umpan balik.

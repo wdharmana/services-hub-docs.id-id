@@ -84,21 +84,27 @@ Setelah menautkan Services Hub Anda ke [Ruang Kerja Azure Log Analytics](https:/
 
 *Catatan: Penilaian ini unik bagi pengguna Services Hub dan akan memberi Anda wawasan lengkap serta memungkinkan Anda untuk segera memecahkan masalah rekomendasi prioritas juga secara proaktif memulihkan masalah.*
 
-1.  Klik **Microsoft Unified Support Solution Pack** untuk melihat daftar solusi yang tersedia.
+1.  Klik **Kesehatan -> Penilaian** dan gulir ke bawah untuk melihat daftar penilaian yang tersedia.
 
-2.  Klik **Tambahkan untuk penilaian mana saja** di Microsoft Unified Support Solutions Pack.
+2.  Klik **Tambahkan Penilaian** untuk penilaian apa pun di katalog.
 
-3.  Klik **Tambahkan** untuk melihat halaman konfigurasi dengan instruksi untuk menyiapkan dan mengonfigurasi penilaian
+3.  Tonton video konfigurasi atau klik konfigurasi sekarang untuk melihat halaman konfigurasi dengan instruksi untuk menyiapkan dan mengonfigurasi penilaian.
+
+![Katalog Memulai KB Kesehatan](Assessment2.png)
+
+![Tambahkan Penilaian Memulai KB Kesehatan](Assessment3.png)
 
 ![Gambar Memulai KB Kesehatan 7](health-kb-gettingstarted7.jpg)
 
 ## <a name="setting-up-an-assessment"></a>Menyiapkan Penilaian
 
-1.  Unduh kedua dokumen dari halaman konfigurasi (Prasyarat untuk Penilaian dan Menyiapkan Penilaian). Dokumen-dokumen ini menjelaskan persyaratan sistem dan cara menginstal Microsoft Management Agent dan Gateway Azure Log Analytics.
+1.  [Unduh](https://www.microsoft.com/en-us/download/details.aspx?id=54778) dokumen dari halaman konfigurasi (Prasyarat untuk Penilaian dan Penilaian Penyiapan). Dokumen-dokumen ini menjelaskan persyaratan sistem dan cara menginstal Microsoft Management Agent dan Gateway Azure Log Analytics.
+
+2.  Atau, Anda dapat melihat [artikel ini](https://gallery.technet.microsoft.com/On-Demand-Assessments-in-97bf978d) untuk memperoleh panduan tentang cara menyiapkan penilaian.
 
 *Catatan: Halaman dan dokumen konfigurasi ini hanya tersedia dalam jenis solusi Penilaian. Tidak semua Solusi dalam daftar memiliki halaman konfigurasi yang tersedia.*
 
-2.  Ada dua skenario yang tersedia untuk mengonfigurasi penilaian. Menentukan terlebih dahulu mana yang terbaik untuk organisasi Anda:
+3.  Ada dua skenario yang tersedia untuk mengonfigurasi penilaian. Menentukan terlebih dahulu mana yang terbaik untuk organisasi Anda:
 
     A. Gateway Azure Log Analytics dan Mesin Pengumpulan Data: Skenario ini memerlukan dua komputer dan merupakan opsi yang paling aman dan pilihan yang direkomendasikan untuk membantu melindungi kredensial akun istimewa yang digunakan pada tugas terjadwal yang terkonfigurasi pada mesin pengumpulan data. Satu komputer ditunjuk sebagai mesin pengumpulan data, dan komputer kedua adalah Gateway Azure Log Analytics. Dalam skenario ini, mesin pengumpulan data tidak memiliki koneksi Internet dan terhubung ke Gateway Azure Log Analytics untuk mengunggah data ke Azure Log Analytics. Azure Log Analytics Gateway harus memiliki akses Internet. Skenario ini direkomendasikan untuk lingkungan di mana koneksi Internet dibatasi dari mesin pengumpulan data atau di mana keamanan menjadi perhatian karena konfigurasi tugas terjadwal.
     
@@ -109,7 +115,7 @@ Setelah menautkan Services Hub Anda ke [Ruang Kerja Azure Log Analytics](https:/
 
 Setelah menautkan Services Hub Anda ke ruang kerja Azure Log Analytics, dan mengonfigurasikan penilaian, Anda dapat melihat semua informasi penilaian Anda dari Services Hub. Untuk melihat halaman penilaian pribadi Anda, pilih Kesehatan dari navigasi utama, lalu klik Penilaian. Di sini Anda akan menemukan semua penilaian terkonfigurasi dengan data tingkat teratas yang diambil dari Azure Log Analytics.
 
-<i>Catatan: Hanya pengguna dengan akses Azure Log Analytics yang akan dapat melihat data penilaian saat menjalankan aturan keamanan yang berlaku untuk Azure Log Analytics. Untuk akses, hubungi pemilik Azure di organisasi Anda. Penilaian yang tersedia dalam contoh di atas memiliki bilah gulir di bawahnya; gunakan untuk melihat Penilaian Tambahan yang tidak ditampilkan.</i>
+<i>Catatan: Hanya pengguna dengan [akses Analitik Log Azure](https://docs.microsoft.com/en-us/services-hub/health/health-kb-adduserazure) yang akan dapat melihat data penilaian saat menjalankan aturan keamanan yang berlaku untuk Analitik Log Azure. Untuk akses, hubungi pemilik Azure di organisasi Anda. Penilaian yang tersedia dalam contoh di atas memiliki bilah gulir di bawahnya; gunakan untuk melihat Penilaian Tambahan yang tidak ditampilkan.</i>
 
 1.  Klik pada setiap Penilaian untuk melihat hasil.
 
