@@ -1,8 +1,8 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Dokumentasi Hub Layanan
-description: Hub Layanan Microsoft
+title: Dokumentasi Pusat Layanan
+description: Pusat Layanan Microsoft
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -18,7 +18,7 @@ description: Hub Layanan Microsoft
                                     </div>
                                 </div>
                                 <div class="cardText">
-                                    <span class="likeAnH3">Tonton Video tentang Cara Kerja Hub Layanan</span>
+                                    <span class="likeAnH3">Tonton Video tentang Cara Kerja Pusat Layanan</span>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@ description: Hub Layanan Microsoft
                                     </div>
                                 </div>
                                 <div class="cardText">
-                                    <span class="likeAnH3">Ajukan Permintaan Bantuan Teknis dengan Hub Layanan</span>
+                                    <span class="likeAnH3">Ajukan Permintaan Bantuan Teknis dengan Pusat Layanan</span>
                                 </div>
                             </div>
                         </div>
@@ -64,11 +64,11 @@ description: Hub Layanan Microsoft
         </ul>
     </div>
     <div class="container">
-        <h1>Pusat Sumber Daya Hub Layanan</h1>
+        <h1>Pusat Sumber Daya Pusat Layanan</h1>
         <ul class="pivots">
             <li data-id="#home" class="pivotItem">
                 <a data-default="true" href="#home" data-linktype="self-bookmark">Gambaran Umum</a>
-                <h3>Pilih salah satu kartu di bawah ini untuk menonton video ringkasan singkat tentang area fitur utama Hub Layanan.</h3>
+                <h3>Pilih salah satu kartu di bawah ini untuk menonton video ringkasan singkat tentang area fitur utama Pusat Layanan.</h3>
                 <ul id="home">
                     <li>
                         <a href="#home-all" data-linktype="self-bookmark"></a>
@@ -85,7 +85,7 @@ description: Hub Layanan Microsoft
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Gambaran Umum</h3>
-                                                    <p>Tonton: Mengapa Menggunakan Hub Layanan?</p>
+                                                    <p>Tonton: Mengapa Menggunakan Pusat Layanan?</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -104,7 +104,7 @@ description: Hub Layanan Microsoft
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Pendaftaran dan Peran</h3>
-                                                    <p>Tonton: Pelajari cara untuk mendaftar dan menyiapkan Hub Layanan Anda.</p>
+                                                    <p>Tonton: Pelajari cara untuk mendaftar dan menyiapkan Pusat Layanan Anda.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -232,7 +232,7 @@ description: Hub Layanan Microsoft
             </li>
             <li data-id="#features" class="pivotItem">
                 <a href="#features" data-linktype="self-bookmark">Fitur</a>
-                <h3>Pilih salah satu kartu di bawah ini untuk menampilkan artikel, KB, FAQ, dan video tentang area fitur utama Hub Layanan</h3>
+                <h3>Pilih salah satu kartu di bawah ini untuk menampilkan artikel, KB, FAQ, dan video tentang area fitur utama Pusat Layanan</h3>
                 <ul id="features">
                     <li>
                         <a href="#features-all" data-linktype="self-bookmark"></a>
@@ -438,7 +438,7 @@ description: Hub Layanan Microsoft
                                                     </div>
                                                     <div class="cardText">
                                                         <h3>Katalog Layanan</h3>
-                                                        <p>Hemat waktu dengan Hub Layanan yang menghubungkan Anda ke layanan yang diperlukan</p>
+                                                        <p>Hemat waktu dengan Pusat Layanan yang menghubungkan Anda ke layanan yang diperlukan</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -486,7 +486,7 @@ description: Hub Layanan Microsoft
                                                     </div>
                                                     <div class="cardText">
                                                         <h3>Pengumuman</h3>
-                                                        <p>Dapatkan informasi terbaru tentang fitur dan fungsionalitas Hub Layanan</p>
+                                                        <p>Dapatkan informasi terbaru tentang fitur dan fungsionalitas Pusat Layanan</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -504,8 +504,8 @@ description: Hub Layanan Microsoft
                                                         <img src="feedback/lightbulb.svg?token=Ag9Jycnta4JmrGTj6OAXyH5sN_Au_WOGks5bEDiTwA%3D%3D&sanitize=true">
                                                     </div>
                                                     <div class="cardText">
-                                                        <h3>Pembaruan Rilis Hub Layanan</h3>
-                                                        <p>Dapatkan informasi terbaru tentang detail rilis Hub Layanan yang baru</p>
+                                                        <h3>Pembaruan Rilis Pusat Layanan</h3>
+                                                        <p>Dapatkan informasi terbaru tentang detail rilis Pusat Layanan yang baru</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -524,7 +524,7 @@ description: Hub Layanan Microsoft
                                                     </div>
                                                     <div class="cardText">
                                                         <h3>Berikan Umpan Balik</h3>
-                                                        <p>Kirimkan ide Anda ke Hub Layanan</p>
+                                                        <p>Kirimkan ide Anda ke Pusat Layanan</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -562,7 +562,7 @@ description: Hub Layanan Microsoft
                                                     </div>
                                                     <div class="cardText">
                                                         <h3>Hubungi Dukungan</h3>
-                                                        <p>Dapatkan bantuan teknis terkait Hub Layanan.</p>
+                                                        <p>Dapatkan bantuan teknis terkait Pusat Layanan.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -580,8 +580,8 @@ description: Hub Layanan Microsoft
                                                         <img alt="inline image" src="./features/Information%20and%20Support%20data%20icon.svg">
                                                     </div>
                                                     <div class="cardText">
-                                                        <h3>Informasi Privasi dan Data Hub Layanan</h3>
-                                                        <p>Dapatkan informasi tentang kepatuhan Hub Layanan dengan keamanan privasi dan data Microsoft.</p>
+                                                        <h3>Informasi Privasi dan Data Pusat Layanan</h3>
+                                                        <p>Dapatkan informasi tentang kepatuhan Pusat Layanan dengan keamanan privasi dan data Microsoft.</p>
                                                     </div>
                                                 </div>
                                             </div>
